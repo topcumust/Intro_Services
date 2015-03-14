@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ServisOgreniyorum</string>
+    <string name="baslat">Servisi Başlat</string>
+    <string name="durdur">Servisi Durdur</string>
+
+</resources>
